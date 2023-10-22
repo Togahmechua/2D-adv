@@ -1,8 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
+using UnityEngine
 
-public class Pendulum : MonoBehaviour
+public class Pendulum : MonoBehaviour//Con lac don
 {
    private Rigidbody2D rb;
    public float moveSpeed;
